@@ -1,0 +1,3 @@
+include ':ai_webza_tec'
+include ':app'
+rootProject.name = "AI_Webza_Tec"
